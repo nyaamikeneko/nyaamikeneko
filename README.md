@@ -22,7 +22,6 @@ I have also developed an on-campus survey site and led a project to build a rese
 <br>
 
 ### Skills
-<h3 align="left">Skills</h3>
 <p align="left">
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" /></a>
   
