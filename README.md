@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taro Masuno</h1>
+<h1 align="center" style="font-size: 50px; font-weight: bold;">Hi 👋, I'm Taro Masuno</h1>
 <h3 align="center">Undergraduate Student, Faculty of Medicine, Nippon Medical School</h3>
 
 <br>
@@ -57,28 +57,27 @@ I have also developed an on-campus survey site and led a project to build a rese
 
 <br>
 
-<p align="left">
+<h3 align="left">GitHub Stats</h3>
+
+<p align="center">
   <a href="https://github.com/nyaamikeneko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyaamikeneko&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyaamikenekoE&theme=radical&border=7F3FBF&background=0D1117&hide_border=true" height="170" alt="GitHub streak"/>
+  </a>
+  <a href="https://github.com/nyaamikeneko">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyaamikeneko&theme=radical" height="170" alt="GitHub Contribution"/>
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/nyaamikeneko">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyaamikeneko&theme=radical" alt="GitHub Contribution"/>
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nyaamikeneko&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="170" width="48%" />
+  </a>
+  <a href="https://github.com/nyaamikeneko">
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nyaamikeneko&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true" height="170" width="48%" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/nyaamikeneko">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nyaamikeneko&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  </a>
-  <a href="https://github.com/nyaamikeneko">
-    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nyaamikeneko&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  </a>
-</p>
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/nyaamikeneko">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyaamikeneko&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true" alt="activity-graph" />
   </a>
