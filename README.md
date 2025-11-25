@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Taro Masuno</h1>
+<h3 align="center">Undergraduate Student, Faculty of Medicine, Nippon Medical School</h3>
 
-<!--
-**nyaamikeneko/nyaamikeneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+I specialize in medicine and neuroscience, with a focus on deep learning analysis of medical data. My experience spans machine learning analysis of EEG signals, developing mathematical models from mouse behavioral data, and conducting agent simulations based on the Free Energy Principle.
+<br>
+I have also developed an on-campus survey site and led a project to build a research information hub, successfully managing a crowdfunding campaign for funding. My core strengths lie in fusing ideas from diverse fields with a broad perspective, the ability to execute ideas rapidly, and a keen sense of design.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+医学部生として医学・神経科学を専攻。医療データの深層学習解析、EEG信号の機械学習解析、マウス行動データの数理モデル化、自由エネルギー原理に基づくエージェントシミュレーションなどの経験があります。<br>
+また、学内アンケートサイトの開発や、研究情報ハブサイト構築プロジェクトを主導し、クラウドファンディングでの資金調達を成功させた経験もあります。広い視野で異分野のアイデアを融合させる力、実行力、デザインセンスが強みです。
+</p>
+
+- 🌍  Based in Tokyo, Japan
+- ✉️  Contact me at [22taro.m.00@nms.ac.jp](mailto:22taro.m.00@nms.ac.jp)
+- 🚀  I'm currently working on **pcdh_analyze** (EEG analysis of psychiatric disease model mice)
+- 🧠  I'm learning **Active Inference, HMM (Hidden Markov Models)**
+
+<br>
+
+### Skills
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="MATLAB" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+</p>
+
+### Socials
+
+<p align="left">
+  <a href="https://twitter.com/sample_id" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/sample-url/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
+
+<br>
+
+<p align="left">
+  <a href="https://github.com/nyaamikeneko">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyaamikeneko&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/nyaamikeneko">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyaamikeneko&theme=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/nyaamikeneko">
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nyaamikeneko&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+  </a>
+  <a href="https://github.com/nyaamikeneko">
+    <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nyaamikeneko&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/nyaamikeneko">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyaamikeneko&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true" alt="activity-graph" />
+  </a>
+</p>
