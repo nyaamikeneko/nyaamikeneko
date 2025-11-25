@@ -16,29 +16,29 @@ I have also developed an on-campus survey site and led a project to build a rese
 
 - 🌍  Based in Tokyo, Japan
 - ✉️  Contact me at [22taro.m.00@nms.ac.jp](mailto:22taro.m.00@nms.ac.jp)
-- 🚀  I'm currently working on **pcdh_analyze** (EEG analysis of psychiatric disease model mice)
+- 🚀  I'm currently working on **[pcdh_analyze](https://github.com/nyaamikeneko/pcdh_analyze)** (EEG analysis of psychiatric disease model mice)
 - 🧠  I'm learning **Active Inference, HMM (Hidden Markov Models)**
 
 <br>
 
 ### Skills
-
+<h3 align="left">Skills</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="MATLAB" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" /></a>
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-### Socials
-
+<h3 align="left">Socials</h3>
 <p align="left">
+  <a href="https://github.com/nyaamikeneko" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  
   <a href="https://twitter.com/love_medicine_z" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
@@ -46,6 +46,7 @@ I have also developed an on-campus survey site and led a project to build a rese
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
+  
   <a href="https://www.linkedin.com/in/taro-masuno-8a5419373/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -61,7 +62,7 @@ I have also developed an on-campus survey site and led a project to build a rese
 
 <p align="center">
   <a href="https://github.com/nyaamikeneko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyaamikenekoE&theme=radical&border=7F3FBF&background=0D1117&hide_border=true" height="170" alt="GitHub streak"/>
+    <img src="https://streak-stats.demolab.com?user=nyaamikeneko&theme=radical&border=7F3FBF&background=0D1117&hide_border=true" height="170" alt="GitHub streak"/>
   </a>
   <a href="https://github.com/nyaamikeneko">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyaamikeneko&theme=radical" height="170" alt="GitHub Contribution"/>
